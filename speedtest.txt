@@ -1,1 +1,0 @@
-Speed: 86.7 Mbit/sAverage: 86.7 Mbit/sAverage of last 5: 17.34 Mbit/s
